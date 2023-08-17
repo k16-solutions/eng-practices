@@ -5,9 +5,9 @@
 A code review is a process where someone other than the author(s) of a piece of
 code examines that code.
 
-At Google, we use code review to maintain the quality of our code and products.
+At K!6, we use code review to maintain the quality of our code and products.
 
-This documentation is the canonical description of Google's code review
+This documentation is the canonical description of K16's code review
 processes and policies.
 
 
@@ -35,7 +35,7 @@ Code reviews should look at:
     methods, etc.?
 -   **Comments**: Are the comments clear and useful?
 -   **Style**: Does the code follow our
-    [style guides](http://google.github.io/styleguide/)?
+    [style guides](http://google.github.io/styleguide/)? TODO: Link to K16 Styleguide
 -   **Documentation**: Did the developer also update relevant documentation?
 
 See **[How To Do A Code Review](reviewer/index.md)** for more information.
