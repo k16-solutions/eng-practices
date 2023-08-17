@@ -1,6 +1,6 @@
-# Google Engineering Practices Documentation
+# K16's Engineering Practices Documentation - Based on and Inspired by Google
 
-Google has many generalized engineering practices that cover all languages and
+K16 has many generalized engineering practices that cover all languages and
 all projects. These documents represent our collective experience of various
 best practices that we have developed over time. It is possible that open source
 projects or other organizations would benefit from this knowledge, so we work to
@@ -8,7 +8,7 @@ make it available publicly when possible.
 
 Currently this contains the following documents:
 
-*   [Google's Code Review Guidelines](review/index.md), which are actually two
+*   [K16's Code Review Guidelines](review/index.md), which are actually two
     separate sets of documents:
     *   [The Code Reviewer's Guide](review/reviewer/index.md)
     *   [The Change Author's Guide](review/developer/index.md)
